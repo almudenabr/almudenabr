@@ -1,4 +1,9 @@
-### Hi there 👋
+### 👋 Hi there! Almudena, front-end developer, is coming! 👩‍💻🎯
+
+* * * 
+
+I have just reinvented myself as a web developer! 🚀 I finished a great bootcamp at **@Adalab**, and I am ready now to keep on **coding**! 😀
+
 
 <!--
 **almudenabr/almudenabr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
