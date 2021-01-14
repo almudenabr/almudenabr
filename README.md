@@ -20,7 +20,7 @@
        &nbsp; - Walking 🚶🏻‍♀️ one hour after lunch.</br>
        &nbsp; - 🥰 **Enjoying every day.** 🥰
        
-   - 👂🏻 Active listening | 🤗 Empathy | 😃 Positive and cheerful attitude | 💻 Teamworking | 👩🏻‍🎓 Self-learning
+   - 👂🏻 Active listening | 🤗 Empathy | 😃 Positive and cheerful attitude | 💻 Teamworking | 👩🏻‍🎓 Self-taught
 </div>
 
 --- 
