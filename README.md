@@ -54,22 +54,20 @@
 ---
 
 <!-- Thanks for visiting and visitors counter -->
-<div align="right">
-  <h3 align="right"> Thanks for visiting 😇 </h3>
-
-
+<span align="center">
+  <h3> Thanks for visiting 😇 </h3>
             
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=almudenabr)
-
-</div>
+</span>
 
 
 <!-- Gifs source -->
-### Credit to 
-- [**GIPHY**](https://giphy.com/) for GIFs. 
+<div align="left">
+  
+  ### Credit to - [**GIPHY**](https://giphy.com/) for GIFs. 
 
 ⭐️ From [almudenabr](https://github.com/almudenabr)
-
+</div>
 
 
 
