@@ -49,7 +49,7 @@
   
  [![Linkedin Badge](https://img.shields.io/badge/-almudenablancorodriguez-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/almudenablancorodriguez/)](https://www.linkedin.com/in/almudenablancorodriguez/)
  
- [![Github Badge](https://img.shields.io/badge/-almudenabr-232323?style=flat&logo=Github&logoColor=white](https://github.com/almudenabr)
+ [![Github](https://img.shields.io/badge/-almudenabr-333?style=flat&logo=Github&logoColor=white)](https://github.com/almudenabr)
  
  [![Twitter Badge](https://img.shields.io/badge/-_almudenabr-1DA1F2?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/_almudenabr)
  
