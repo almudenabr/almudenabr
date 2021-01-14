@@ -2,22 +2,17 @@
 <h1 align="center"> 👋 Hi! Almudena, front-end developer, is coming! 👩‍💻 </br><img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width=45px"> 
 </h1>
 
-<div align="center">
-
-![Under construction](https://user-images.githubusercontent.com/282759/84681715-8c7cb580-af02-11ea-85a4-05d069c72121.gif)
-
-</div>
-
 <h3 align="center">🚀 Front-end developer | Enthusiastic programmer | Ready to keep on coding 🚀</h3>
 
 --- 
   
  <!-- About me + soft skills--> 
+ <div>
   <h3> 🙋🏻‍♀️ This is me: </h3>
 
-  - 🚀 &nbsp; Since the quarantine I decided reinventing myself as a web developer 👩🏻‍💻 and I am very proud of getting it. 😀  
-  - ✍️ &nbsp; Really motivated to continue learning from the web development world.  
-  - ☘ &nbsp; Self-challenges in order to push myself further more:</br>
+  - 🚀 &nbsp;Since the quarantine I decided reinventing myself as a web developer 👩🏻‍💻 and I am very proud of getting it.😀  
+  - ✍️ &nbsp;Really motivated to continue learning from the web development world.  
+  - ☘ &nbsp;Self-challenges in order to push myself further more:</br>
   
        &nbsp; - Self-learning 👩🏻‍💻 with on-line courses 4-5 hours a day.</br>
        &nbsp; - Reading 📰 articles related with dev, UI... daily.</br>
@@ -26,7 +21,6 @@
        &nbsp; - 🥰 **Enjoying every day.** 🥰
        
    - 👂🏻 Active listening | 🤗 Empathy | 😃 Positive and cheerful attitude | 💻 Teamworking | 👩🏻‍🎓 Self-learning
-</div> 
 </div>
 
 --- 
@@ -51,27 +45,26 @@
 <div>
   <h3> 💬 Contact Me </h3>
 
-![Gmail Badge](https://img.shields.io/badge/-almudenablancorgz@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white)
-    [![Gmail](https://img.shields.io/badge/-almudenablancorgz-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:almudenablancorgz@gmail.com)
+ [![Gmail](https://img.shields.io/badge/-almudenablancorgz-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:almudenablancorgz@gmail.com)
     ![Linkedin](https://img.shields.io/badge/-almudenablancorodriguez-blue?style=flat&logo=Linkedin&logoColor=white)
     ![Github](https://img.shields.io/badge/-almudenabr-232323?style=flat-square&logo=Github&logoColor=white&link=https://github.com/almudenabr)
-    ![Twitter Badge](https://img.shields.io/badge/-_almudenabr-1da1f2?style=flat-square&labelColor=1da1f2&logo=twitter&logoColor=white&link=https://twitter.com/_almudenabr)
     [![Twitter](https://img.shields.io/badge/-_almudenabr-1DA1F2?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/_almudenabr)
 </div>
 
 ---
 
+<!-- Thanks for visiting and visitors counter -->
+<div align="right">
+  <h3 align="right"> Thanks for visiting 😇 </h3>
 
-<div align="center">
-  <h3 align="center"> Thanks for visiting 😇 </h3>
 
+            
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=almudenabr)
 
 </div>
 
 
-***
-<!-- Credit -->
+<!-- Gifs source -->
 ### Credit to 
 - [**GIPHY**](https://giphy.com/) for GIFs. 
 
