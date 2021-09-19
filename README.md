@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">🚀 Front-end developer | Enthusiastic programmer | Ready to keep on coding 🚀 </br>
-  💻 Looking for my first dev job 🎯 </h3>
+  💻 Enjoying my first dev job 🎯 </h3>
 
 --- 
   
@@ -15,10 +15,10 @@
   - ✍️ &nbsp;Really motivated to continue learning from the web development world.  
   - ☘ &nbsp;Self-challenges in order to push myself further more:</br>
   
-       &nbsp; - Self-learning 👩🏻‍💻 with on-line courses 4-5 hours a day.</br>
+       &nbsp; - Self-learning 👩🏻‍💻 with on-line courses.</br>
        &nbsp; - Reading 📰 articles related with dev, UI... daily.</br>
        &nbsp; - Practising code 👾 daily.</br>
-       &nbsp; - Walking 🚶🏻‍♀️ one hour after lunch.</br>
+       &nbsp; - Walking 🚶🏻‍♀️ and Pilates 🧘‍♀️.</br>
        &nbsp; - 🥰 **Enjoying every day.** 🥰
        
    - 👂🏻 Active listening | 🤗 Empathy | 😃 Positive and cheerful attitude | 💻 Teamworking | 👩🏻‍🎓 Self-taught
